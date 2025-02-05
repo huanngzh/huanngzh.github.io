@@ -103,7 +103,7 @@ Zehuan Huang\*, Hao Wen\*, Junting Dong\*, Yaohui Wang, Yangguang Li, Xinyuan Ch
 
 [From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation](https://arxiv.org/pdf/2404.15267)
 
-**Zehuan Huang**, Hongxing Fan, Lipeng Wang, Lu Sheng✉
+**Zehuan Huang**\*, Hongxing Fan\*, Lipeng Wang, Lu Sheng✉
 
 [**Project Page**](https://huanngzh.github.io/Parts2Whole/) | ArXiv 2024
 - **TL;DR:** Customize each part of human images for controllable portrait generation.
