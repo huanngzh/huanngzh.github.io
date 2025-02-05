@@ -26,7 +26,7 @@ My current research interests include deep generative models and their applicati
 I am grateful to all my collaborators and mentors along the way. I first started doing research under the guidance of <a href="https://miaowang.me/" target="_blank">Prof. Miao Wang</a>. Then I started working on deep learning related projects under the supervision of <a href="https://lucassheng.github.io/" target="_blank">Prof. Lu Sheng</a>. Besides, I also successively haved intern at <a href="https://minimaxi.com/" target="_blank">MiniMax</a>, <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Lab</a>, and <a href="https://www.tripo3d.ai/" target="_blank">VAST</a>, and I'm fortunate to have worked closely with <a href="https://jtdong.com/" target="_blank">Junting Dong</a>, <a href="https://scholar.google.com/citations?user=b7ZJV9oAAAAJ" target="_blank">Yuan-Chen Guo</a> and <a href="https://yanpei.me/" target="_blank">Yanpei Cao</a>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 New paper *MV-Adapter* on multi-view synthesis and texture generation is open source.
+- *2024.12*: &nbsp;🎉🎉 New paper *MV-Adapter* on multi-view synthesis and texture generation is open source.
 - *2024.07*: &nbsp;🎉🎉 New paper *TELA* on clothes disentangled 3D human generation is accepted by ECCV 2024.
 - *2024.02*: &nbsp;🎉🎉 New paper *EpiDiff* on 3D object generation was accepted is accepted by CVPR 2024.
 
