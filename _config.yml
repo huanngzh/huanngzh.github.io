@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Zehuan Huang"
-description: "Zehuan Huang's academic homepage"
+description: "Master student in Beihang University. Focusing on generative AI and its applications."
 repository: "huanngzh/huanngzh.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -22,6 +22,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: "Zehuan Huang"
+  namezh: "黄泽桓"
   avatar: "images/android-chrome-512x512.png"
   bio: "Beihang University"
   location: "Beijing, China"
