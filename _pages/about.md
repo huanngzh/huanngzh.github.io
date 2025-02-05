@@ -63,7 +63,7 @@ I am grateful to all my collaborators and mentors along the way. I first started
 
 [Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](https://arxiv.org/pdf/2406.03184)
 
-Hao Wen*, **Zehuan Huang***, Yaohui Wang, Xinyuan Chen, Yu Qiao, Lu Sheng
+Hao Wen\*, **Zehuan Huang**\*, Yaohui Wang, Xinyuan Chen, Yu Qiao, Lu Sheng
 
 [**Project Page**](https://costwen.github.io/Ouroboros3D/) | ArXiv 2024
 - **TL;DR:** Transfer the two-stage image-to-3D pipeline into a unified recursive diffusion process, thereby reducing the data bias of each stage and improving the quality of generated 3D.
@@ -87,7 +87,7 @@ Junting Dong, Qi Fang, **Zehuan Huang**, Xudong Xu, Jingbo Wang, Sida Peng, Bo D
 
 [EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_EpiDiff_Enhancing_Multi-View_Synthesis_via_Localized_Epipolar-Constrained_Diffusion_CVPR_2024_paper.pdf)
 
-Zehuan Huang*, Hao Wen*, Junting Dong*, Yaohui Wang, Yangguang Li, Xinyuan Chen, Yan-Pei Cao, Ding Liang, Yu Qiao, Bo Dai✉, Lu Sheng✉
+Zehuan Huang\*, Hao Wen\*, Junting Dong\*, Yaohui Wang, Yangguang Li, Xinyuan Chen, Yan-Pei Cao, Ding Liang, Yu Qiao, Bo Dai✉, Lu Sheng✉
 
 [**Project Page**](https://huanngzh.github.io/EpiDiff/) | CVPR 2024
 - **TL;DR:** A localized interactive multi-view diffusion model, that includes epipolar attention blocks to model multi-view consistency.
