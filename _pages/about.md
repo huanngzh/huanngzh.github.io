@@ -26,15 +26,16 @@ My current research interests include deep generative models and their applicati
 I am grateful to all my collaborators and mentors along the way. I first started doing research under the guidance of <a href="https://miaowang.me/" target="_blank">Prof. Miao Wang</a>. Then I started working on deep learning related projects under the supervision of <a href="https://lucassheng.github.io/" target="_blank">Prof. Lu Sheng</a>. Besides, I also successively haved intern at <a href="https://minimaxi.com/" target="_blank">MiniMax</a>, <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Lab</a>, and <a href="https://www.tripo3d.ai/" target="_blank">VAST</a>, and I'm fortunate to have worked closely with <a href="https://jtdong.com/" target="_blank">Junting Dong</a>, <a href="https://scholar.google.com/citations?user=b7ZJV9oAAAAJ" target="_blank">Yuan-Chen Guo</a> and <a href="https://yanpei.me/" target="_blank">Yanpei Cao</a>.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 New paper *MV-Adapter* on multi-view synthesis and texture generation is open source.
-- *2024.07*: &nbsp;🎉🎉 New paper *TELA* on clothes disentangled 3D human generation is accepted by ECCV 2024.
-- *2024.02*: &nbsp;🎉🎉 New paper *EpiDiff* on 3D object generation was accepted is accepted by CVPR 2024.
+- *2025.03*: &nbsp;🎉🎉 [*Ouroboros3D*](https://costwen.github.io/Ouroboros3D/) and [*MIDI*](https://huanngzh.github.io/MIDI-Page/) are accepted by CVPR 2025.
+- *2024.12*: &nbsp;🎉🎉 [*MV-Adapter*](https://huanngzh.github.io/MV-Adapter-Page/) on multi-view synthesis and texture generation is open source.
+- *2024.07*: &nbsp;🎉🎉 [*TELA*](http://jtdong.com/tela_layer/) on clothes disentangled 3D human generation is accepted by ECCV 2024.
+- *2024.02*: &nbsp;🎉🎉 [*EpiDiff*](https://huanngzh.github.io/EpiDiff/) on 3D object generation is accepted by CVPR 2024.
 
 # 📝 Publications
 
 ## 🧑‍🎨 3D Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRR 2024</div><img src='images/teasers/midi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/teasers/midi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation](https://arxiv.org/pdf/2412.03558)
@@ -58,14 +59,14 @@ I am grateful to all my collaborators and mentors along the way. I first started
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRR 2024</div><img src='images/teasers/ouroboros3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/teasers/ouroboros3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](https://arxiv.org/pdf/2406.03184)
 
 Hao Wen\*, **Zehuan Huang**\*, Yaohui Wang, Xinyuan Chen, Yu Qiao, Lu Sheng
 
-[**Project Page**](https://costwen.github.io/Ouroboros3D/) | ArXiv 2024
+[**Project Page**](https://costwen.github.io/Ouroboros3D/) | CVPR 2025
 - **TL;DR:** Transfer the two-stage image-to-3D pipeline into a unified recursive diffusion process, thereby reducing the data bias of each stage and improving the quality of generated 3D.
 </div>
 </div>
