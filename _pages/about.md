@@ -42,7 +42,7 @@ I am grateful to all my collaborators and mentors along the way. I first started
 
 **Zehuan Huang**, Yuan-Chen Guo, Xingqiao An, Yunhan Yang, Yangguang Li, Zi-Xin Zou, Ding Liang, Xihui Liu, Yan-Pei Cao✉, Lu Sheng✉
 
-[**Project Page**](https://huanngzh.github.io/MIDI-Page/) | [**Code**](https://github.com/huanngzh/MIDI) [![](https://img.shields.io/github/stars/huanngzh/MIDI?style=social)](https://github.com/huanngzh/MIDI)
+[**Project Page**](https://huanngzh.github.io/MIDI-Page/) | [**Code**](https://github.com/VAST-AI-Research/MIDI-3D) [![](https://img.shields.io/github/stars/huanngzh/MIDI?style=social)](https://github.com/VAST-AI-Research/MIDI-3D)
 - **TL;DR:** MIDI is a novel paradigm for image to compositional 3D scene generation, which extends pre-trained image-to-3D object generation models to multi-instance diffusion models for generation of multiple 3D instances.
 </div>
 </div>
