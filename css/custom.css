@@ -1,0 +1,58 @@
+/* Publication section styles */
+.publication-info, .publication-img {
+    padding: 10px;
+}
+
+.publication-text {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.publication-title {
+    color: #456fc3;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.publication-authors {
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+.publication-venue {
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+.publication-links {
+    font-size: 15px;
+    padding-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.links-container {
+    margin-right: 10px;
+}
+
+.publication-links a {
+    text-decoration: none;
+    color: #456fc3;
+}
+
+.publication-links a:hover {
+    text-decoration: underline;
+}
+
+.github-stars {
+    display: inline-flex;
+    align-items: center;
+}
+
+.publication-intro {
+    padding-top: 8px;
+}
+
+.publication-highlight {
+    background-color: #ffffdf;
+}
